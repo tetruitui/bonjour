@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ssadas
+=======
+sadasddqwebg12uh0i1i
+>>>>>>> origin/Tri
